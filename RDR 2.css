@@ -1,0 +1,1815 @@
+.imp{
+    background-color: black;
+}
+
+.box{
+    border: 1px dashed transparent;
+    background-color: #27272738;
+    width: 100%;
+    height: 60px;  
+}
+
+.ico1{
+    width: 22px;
+    height: 25px;
+    padding-left: 20px;
+    padding-top: 16px;
+} 
+
+.down{
+    width: 12px;
+    height: 12px;
+    padding-left: 2px;
+    margin-bottom: 7px;
+} 
+
+.os{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 22px;
+    color: aliceblue;
+    margin-left: 30px;
+    position: absolute;
+    top: 20px;
+} 
+
+.os a:hover{
+    color: rgba(245, 245, 245, 0.757);
+    text-decoration: none;
+}
+
+.os a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.t1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: aliceblue;
+    margin-left: 126px;
+    font-size: 18px;
+    position: absolute;
+    top: 25px;
+}
+
+.t1 a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+.t1 a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.t2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: aliceblue;
+    margin-left: 215px;
+    font-size: 18px;
+    position: absolute;
+    top: 25px;
+}
+
+.down1{
+    width: 12px;
+    height: 12px;
+    padding-left: 288px;
+    margin-bottom: 5px;
+}
+
+.ico2{
+    width: 19px;
+    height: 19px;
+    margin-left: 730px;
+} 
+
+.box1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: #272727cc;
+    width: 70px;
+    margin-left: 84%;
+    position: absolute;
+    top: 23px;
+    height: 32px;
+    color: whitesmoke;    
+}
+
+.box2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: #1E90FF;
+    width: 90px;
+    margin-left: 90%;
+    position: absolute;
+    top: 23px;
+    height: 32px;
+    color: black;    
+}
+
+
+.t3{
+    color: aliceblue;
+    position: absolute;
+    top: 3px;
+    left: 13px;
+}
+
+.box1:hover{
+    background-color: #535353b1;
+}
+
+.box2:hover{
+    filter: brightness(120%);
+}
+
+.t4{
+    color: black;
+    position: absolute;
+    top: 3px;
+    left: 13px;
+}
+
+
+.sea{
+    width: 18px;
+    height: 18px;
+    padding-left: 171px;
+    margin-top: 27px;
+}
+
+
+.box3{
+    border: 1px solid black;
+    background-color: #27272778;
+    width: 240px;
+    height: 40px;
+    border-radius: 17px;
+    position: absolute;
+    left: 167px;
+    bottom: 77%;
+    padding-left: 40px;
+    color: white;
+}
+
+.box4{
+    border: 1px solid #272727;
+    border-radius: 10px;
+    width: 620px;
+    height: 350px;
+    position: absolute;
+    left: 166px;
+    top: 300px;
+}
+
+.box5{
+    border: 1px solid #272727;
+    border-radius: 3px;
+    background-color: #272727;
+    width: 90px;
+    height: 25px;
+    position: absolute;
+    right: 397px;
+    bottom: 71px;
+}
+
+.box6{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    background-color: rgba(253, 33, 33, 0.888);
+    width: 320px;
+    height: 43px;
+    position: absolute;
+    right: 168px;
+    bottom: -28px;
+}
+
+.box6:hover{
+    background-color: rgb(255, 71, 71);
+}
+
+.box7{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    background-color: #272727;
+    width: 320px;
+    height: 43px;
+    position: absolute;
+    right: 168px;
+    bottom: -83px;
+}
+
+.box7:hover{
+    background-color: #4e4e4e;
+}
+
+.box8{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    background-color: #272727;
+    width: 320px;
+    height: 43px;
+    position: absolute;
+    right: 168px;
+    bottom: -140px;
+}
+
+.box8:hover{
+    background-color: #4e4e4e;
+}
+
+
+.dis{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.605);
+    width: 13px;
+    height: 13px;
+    position: absolute;
+    left: 435px;
+    top: 110px;
+}
+
+.dis a{
+    color: gray;
+    text-decoration: none;
+}
+
+.dis a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.bro{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.605);
+    width: 13px;
+    height: 13px;
+    position: absolute;
+    left: 523px;
+    top: 110px;
+}
+
+.bro a{
+    color: gray;
+    text-decoration: none;
+}
+
+.bro a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.new{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.605);
+    width: 13px;
+    height: 13px;
+    position: absolute;
+    top: 110px;
+    left: 600px;
+}
+
+.new a{
+    color: gray;
+    text-decoration: none;
+}
+
+.new a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.rdr2{
+    font-family: "Kanit", sans-serif;
+    font-weight: 710;
+    font-style: normal;
+    font-size: 41px;
+    color: whitesmoke;
+    position: absolute;
+    left: 167px;
+    top: 185px;
+}
+
+.rdr2g{
+    border: 1px solid #272727;
+    border-radius: 5px;
+    background-image: url(./images/RDR2\ Trailer\ img.png);
+    background-size: cover;
+    width: 97px;
+    height: 50px;
+    position: absolute;
+    left: 370px;
+    bottom: -108px;
+}
+
+.rdr2g:hover{
+    border: 1px solid whitesmoke;
+}
+
+.rdr2g1{
+    border: 1px solid #272727;
+    border-radius: 5px;
+    background-image: url(./images/RDR2\ Game\ Photo.jpg);
+    background-size: cover;
+    width: 97px;
+    height: 50px;
+    position: absolute;
+    left: 490px;
+    bottom: -108px;
+}
+
+.rdr2g1:hover{
+    border: 1px solid whitesmoke;
+}
+
+.tex{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 19px;
+    color: whitesmoke;
+    position: absolute;
+    bottom: -290px;
+    left: 170px;
+ }
+
+.pla{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    left: -75px;
+    top: 17px;
+}
+
+.st{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 168px;
+    top: 253px;
+}
+
+.st2{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 185px;
+    top: 253px;
+}
+
+.st3{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 202px;
+    top: 253px;
+}
+
+.st4{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 218px;
+    top: 253px;
+}
+
+.st5{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 235px;
+    top: 253px;
+}
+
+.st6{
+    width: 4px;
+    height: 4px;
+    position: absolute;
+    left: 246px;
+    top: 259px;
+}
+
+.rate{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: whitesmoke;
+    position: absolute;
+    left: 258px;
+    top: 250px;
+}
+
+.p1{
+    width: 21px;
+    height: 20px;
+    position: absolute;
+    left: 297px;
+    top: 250px;
+}
+
+.ict{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 328px;
+    top: 230px;
+}
+
+.d1{
+    width: 19px;
+    height: 21px;
+    position: absolute;
+    left: 465px;
+    top: 251px;   
+}
+
+.ict1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 497px;
+    top: 249px;
+}
+
+.log{
+    width: 174px;
+    height: 70px;
+    position: absolute;
+    right: 242px;
+    bottom: 178px;
+}
+
+.B1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    width: 16px;
+    height: 16px;
+    color: whitesmoke;
+    padding-left: 6px;
+}
+
+.r1{
+    font-family: "Kanit", sans-serif;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    right: 436px;
+    bottom: 13px;
+}
+
+.b1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 19px;
+    color: whitesmoke;
+    position: absolute;
+    left: 125px;
+    top: 10px;
+}
+
+.b2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 19px;
+    color: whitesmoke;
+    position: absolute;
+    left: 115px;
+    top: 10px;
+}
+
+.b3{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 19px;
+    color: whitesmoke;
+    position: absolute;
+    left: 105px;
+    top: 10px;
+}
+
+.gen{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    bottom: -375px;
+    left: 167px;
+}
+
+.fea{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 500px;
+    bottom: -375px;
+}
+
+.bar{
+    width: 5px;
+    height: 60px;
+    position: absolute;
+    left: 477px;
+    bottom: -390px;
+}
+
+.bar1{
+    width: 325px;
+    height: 5px;
+    position: absolute;
+    right: 166px;
+    bottom: -205px;
+}
+
+.bar2{
+    width: 325px;
+    height: 5px;
+    position: absolute;
+    right: 166px;
+    bottom: -245px;
+}
+
+.bar3{
+    width: 325px;
+    height: 5px;
+    position: absolute;
+    right: 166px;
+    bottom: -285px;
+}
+
+.bar4{
+    width: 325px;
+    height: 5px;
+    position: absolute;
+    right: 166px;
+    bottom: -325px;
+}
+
+.bar5{
+    width: 325px;
+    height: 5px;
+    position: absolute;
+    right: 166px;
+    bottom: -365px;
+}
+
+.bar6{
+    width: 325px;
+    height: 5px;
+    position: absolute;
+    right: 166px;
+    bottom: -405px;
+}
+
+.dn1{
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    right: 271px;
+    bottom: -444px;
+}
+
+.tx1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    right: 298px;
+    bottom: -460px;
+}
+
+.epi{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 403px;
+    bottom: -210px;
+}
+
+.rt{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 407px;
+    bottom: -250px;
+}
+
+.sel{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    right: 200px;
+    bottom: -250px;
+}
+
+.que{
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    right: 170px;
+    bottom: -230px;
+}
+
+.dl{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 421px;
+    bottom: -290px;
+}
+
+.roc{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    right: 170px;
+    bottom: -290px;
+}
+
+.ps{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 429px;
+    bottom: -330px;
+}
+
+.roc1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    right: 170px;
+    bottom: -330px;
+}
+
+.rd{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 400px;
+    bottom: -370px;
+}
+
+.date{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    right: 170px;
+    bottom: -370px;
+}
+
+.pf{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 431px;
+    bottom: -410px;
+}
+
+.win{
+    width: 19px;
+    height: 21px;
+    position: absolute;
+    right: 170px;
+    bottom: -394px;
+}
+
+.epi1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    right: 200px;
+    bottom: -194px;
+}
+
+.st1{
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    right: 171px;
+    bottom: -191px;
+}
+
+.bx1{
+    border: 1px solid #272727;
+    border-radius: 3px;
+    background-color: #272727;
+    width: 55px;
+    height: 19px;
+    position: absolute;
+    left: 167px;
+    bottom: -390px;
+}
+
+.bx2{
+    border: 1px solid #272727;
+    border-radius: 3px;
+    background-color: #272727;
+    width: 75px;
+    height: 19px;
+    position: absolute;
+    left: 233px;
+    bottom: -390px;
+}
+
+.bx3{
+    border: 1px solid #272727;
+    border-radius: 3px;
+    background-color: #272727;
+    width: 95px;
+    height: 19px;
+    position: absolute;
+    left: 319px;
+    bottom: -390px;
+}
+
+.bx4{
+    border: 1px solid #272727;
+    border-radius: 3px;
+    background-color: #272727;
+    width: 100px;
+    height: 19px;
+    position: absolute;
+    left: 500px;
+    bottom: -390px;
+}
+
+.bx5{
+    border: 1px solid transparent;
+    background-color: #272727;
+    border-radius: 6px;
+    width: 620px;
+    height: 65px;
+    position: absolute;
+    left: 168px;
+    bottom: -515px;
+}
+
+.bx6{
+    border: 1px solid transparent;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background-color: rgba(253, 33, 33, 0.886);
+    width: 4px;
+    height: 65px;
+    position: absolute;
+    left: -2px;
+    bottom: -1px;
+}
+
+.bx7{
+    border: 1px solid transparent;
+    background-color: #272727;
+    border-radius: 10px;
+    width: 610px;
+    height: 90px;
+    position: absolute;
+    left: 163px;
+    bottom: -220%;
+}
+
+.ac{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 430;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    position: absolute;
+    left: 5px;
+    bottom: -2px;
+    color: whitesmoke;
+}
+
+.na{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 430;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    position: absolute;
+    left: 4px;
+    bottom: -2px;
+    color: whitesmoke;
+}
+
+.op{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 430;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    position: absolute;
+    left: 6px;
+    bottom: -2px;
+    color: whitesmoke;
+}
+
+.sin{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 430;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    position: absolute;
+    left: 6px;
+    bottom: -2px;
+    color: whitesmoke;
+}
+
+.det{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 28px;
+    bottom: 8px;
+}
+
+.tit{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 21px;
+    color: whitesmoke;
+    position: absolute;
+    left: 166px;
+    bottom: -100%;
+}
+
+.so{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 166px;
+    bottom: -107%;
+}
+
+.pa1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 166px;
+    bottom: -123%;
+}
+
+.pa2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 166px;
+    bottom: -150%;
+}
+
+.pa3{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 166px;
+    bottom: -193%;
+}
+
+.fol{
+    font-family: "Kanit", sans-serif;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 22px;
+    color: whitesmoke;
+    position: absolute;
+    left: 165px;
+    bottom: -205%;
+}
+
+.fac{
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    left: 190px;
+    bottom: 29%;
+}
+
+.ins{
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    left: 270px;
+    bottom: 29%;
+}
+
+.twi{
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    left: 350px;
+    bottom: 29%;
+}
+
+.you{
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    left: 420px;
+    bottom: 24%;
+}
+
+.sys{
+    font-family: "Kanit", sans-serif;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 22px;
+    color: whitesmoke;
+    position: absolute;
+    left: 165px;
+    bottom: -237%;
+}
+
+.bx8{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #272727c1;
+    width: 615px;
+    height: 1700px;
+    position: absolute;
+    left: 164px;
+    top: 337%;
+}
+
+.wi{
+    font-family: "Kanit", sans-serif;
+    font-weight: 330;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    margin-left: 60px;   
+}
+
+.cab{
+    width: 72px;
+    height: 60px;
+    position: absolute;
+    left: 60px;
+    top: 20px;
+}
+
+.mi{
+    font-family: "Kanit", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 65px;
+}
+
+.o{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 60px;
+    top: 105px;
+}
+
+.re{
+    font-family: "Kanit", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    right: 160px;
+}
+
+.o1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 260px;
+    top: 105px;
+}
+
+.oswi{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 130px;
+}
+
+.oswi1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    top: 130px;
+    right: 45px;
+}
+
+.pro{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 60px;
+    top: 200px;
+}
+
+.pro1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 215px;
+    top: 200px;
+}
+
+.proin{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 225px;
+}
+
+.proin1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    right: 70px;
+    top: 225px;
+}
+
+.mem{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 60px;
+    top: 300px;
+}
+
+.mem1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 222px;
+    top: 300px;
+}
+
+.gb{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    top: 323px;
+    left: 61px;
+}
+
+.gb1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    right: 240px;
+    top: 323px;
+}
+
+.grap{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    top: 370px;
+    left: 60px;
+}
+
+.grap1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 218px;
+    top: 370px;
+}
+
+.nvi{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 400px;
+}
+
+.nvi1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    right: 43px;
+    top: 400px;
+}
+
+.stor{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 60px;
+    top: 473px;
+}
+
+.stor1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 222px;
+    top: 473px;
+}
+
+.stogb{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    top: 495px;
+    left: 60px;
+}
+
+.stogb1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    right: 226px;
+    top: 495px;
+}
+
+.ot{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 60px;
+    top: 545px;
+}
+
+.ot1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    right: 234px;
+    top: 545px;
+}
+
+.sc{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 570px;
+}
+
+.sc1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    top: 570px;
+    right: 127px;
+}
+
+.LAR{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    top: 650px;
+    left: 60px;
+}
+
+.RSC{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    top: 675px;
+    left: 60px;
+}
+
+.ls{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 60px;
+    top: 735px;
+}
+
+.Voi{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    word-spacing: 7px;
+    top: 770px;
+    left: 60px;
+}
+
+.type{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    word-spacing: 7px;
+    position: absolute;
+    top: 820px;
+    left: 60px;
+}
+
+.soflic{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.605);
+    position: absolute;
+    left: 60px;
+    bottom: 50px;
+}
+
+.pri{
+    font-family: "Kanit", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    font-size: 17px;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    bottom: 20px;
+}
+
+.ext{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    left: 172px;
+    bottom: 41px;
+}
+
+.bx9{
+    border: 1px solid #272727c1;
+    background-color: #272727c1;
+    width: 1333px;
+    height: 690px;
+    position: absolute;
+    bottom: -640%;
+}
+
+.facebook{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 80px;
+    top: 40px;
+}
+
+.twitter{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 125px;
+    top: 42px;
+}
+
+.youtube{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 168px;
+    top: 47px;
+}
+
+.res{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.371);
+    position: absolute;
+    left: 80px;
+    top: 80px;
+}
+
+.uparr{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    right: 30px;
+    top: 40px;
+}
+
+.support{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 107px;
+}
+
+.distri{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 135px;
+}
+
+.career{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 163px;
+}
+
+.company{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 190px;
+}
+
+.FAP{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 280px;
+    top: 107px;
+}
+
+.UX{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 280px;
+    top: 135px;
+}
+
+.SE{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 280px;
+    top: 163px;
+}
+
+.OS{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 400px;
+    top: 107px;
+}
+
+.CR{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 400px;
+    top: 135px;
+}
+
+.EN{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 400px;
+    top: 163px;
+}
+
+.MBEG{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.373);
+    position: absolute;
+    left: 80px;
+    top: 240px;
+}
+
+.BB{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 270px;
+}
+
+.F{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 300px;
+}
+
+.IB{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 330px;
+}
+
+.RR{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 282px;
+    top: 270px;
+}
+
+.SC{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 282px;
+    top: 300px;
+}
+
+.UT{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 282px;
+    top: 330px;
+}
+
+.sli{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    width: 1180px;
+    height: 3px;
+    position: absolute;
+    left: 80px;
+    top: 395px;
+}
+
+.instruction{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 230;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: rgba(245, 245, 245, 0.831);
+    line-height: 23px;
+    font-size: 14px;
+    width: 900px;
+    height: 10px;
+    position: absolute;
+    left: 80px;
+    top: 420px;
+}
+
+.TOS{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 627px;
+}
+
+.PP{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 200px;
+    top: 627px;
+
+}
+
+.SRP{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 300px;
+    top: 627px;
+}
+
+.EGL{
+    width: 27px;
+    height: 32px;
+    position: absolute;
+    right: 105px;
+    top: 595px;
+}
+
+.UEL{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 60px;
+    top: 597px;
+}

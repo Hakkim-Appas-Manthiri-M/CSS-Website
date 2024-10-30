@@ -1,0 +1,2258 @@
+.imp{
+    background-color: black;
+}
+
+.box{
+    border: 1px dashed transparent;
+    background-color: #27272738;
+    width: 100%;
+    height: 60px;
+    
+}
+
+.box1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: #272727cc;
+    width: 70px;
+    margin-left: 84%;
+    position: absolute;
+    top: 23px;
+    height: 32px;
+    color: whitesmoke;    
+}
+
+.box2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: #1E90FF;
+    width: 90px;
+    margin-left: 90%;
+    position: absolute;
+    top: 23px;
+    height: 32px;
+    color: black;    
+}
+
+.box3{
+    border: 1px solid black;
+    background-color: #27272778;
+    width: 240px;
+    height: 40px;
+    border-radius: 17px;
+    position: absolute;
+    left: 167px;
+    bottom: 77%;
+    padding-left: 40px;
+    color: white;
+}
+
+.box4{
+    border: 1px solid black;
+    background-image: url(./images/God-Of-War-Ragnarok-Wallpaper-PNG.jpg);
+    background-size: cover;
+    filter: opacity(0.7);
+    width: 830px;
+    height: 455px;
+    border-radius: 10px;
+    margin-left: 157px;
+    margin-top: 40px;
+}
+
+.box5{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    width: 169px;
+    height: 45px;
+    position: absolute;
+    left: 200px;
+    bottom: 11px;
+}
+
+.box6{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 180px;
+    height: 72px;
+    position: absolute;
+    right: 155px;
+    bottom: 365px;
+}
+
+.box6:hover {
+    background-color: #27272778;
+}
+
+.box7{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 180px;
+    height: 71px;
+    position: absolute;
+    right: 155px;
+    bottom: 290px;
+}
+
+.box7:hover{
+    background-color: #27272778;
+}
+
+.box8{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 180px;
+    height: 71px;
+    position: absolute;
+    right: 155px;
+    bottom: 215px;
+}
+
+.box8:hover{
+    background-color: #27272778;
+}
+
+.box9{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 180px;
+    height: 71px;
+    position: absolute;
+    right: 155px;
+    bottom: 140px;
+}
+
+.box9:hover{
+    background-color: #27272778;
+}
+
+.box10{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 180px;
+    height: 71px;
+    position: absolute;
+    right: 155px;
+    bottom: 65px;
+}
+
+.box10:hover{
+    background-color: #27272778;
+}
+
+.box11{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 180px;
+    height: 71px;
+    position: absolute;
+    right: 155px;
+    bottom: -10px;
+}
+
+.box11:hover{
+    background-color: #27272778;
+}
+
+.box12{
+    border: 1px solid black;
+    border-radius: 13px;
+    background-image: url(./images/Far-Cry-3\ Icon.webp);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    left: 160px;
+}
+
+.box12:hover{
+    filter: contrast(0.8);
+}
+
+.box13{
+    border: 1px solid black;
+    border-radius: 13px;
+    background-image: url(./images/AC2\ icon.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    left: 380px;
+}
+
+.box13:hover{
+    filter: contrast(0.8);
+}
+
+.box14{
+    border: 1px solid black;
+    border-radius: 13px;
+    background-image: url(./images/God\ of\ War\ Icon\ 1.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    left: 600px;
+}
+
+.box14:hover{
+    filter: contrast(0.8);
+}
+
+.box15{
+    border: 1px solid black;
+    border-radius: 13px;
+    background-image: url(./images/Tomb\ Raider\ Icon.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    right: 325px;
+}
+
+.box15:hover{
+    filter: contrast(0.8);
+}
+
+.box16{
+    border: 1px solid black;
+    border-radius: 13px;
+    background-image: url(./images/Watch\ Dogs\ 2\ Icon.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    right: 100px;
+}
+
+.box16:hover{
+    filter: contrast(0.8);
+}
+
+.down{
+    width: 12px;
+    height: 12px;
+    padding-left: 2px;
+    margin-bottom: 7px;
+} 
+
+.down1{
+    width: 12px;
+    height: 12px;
+    padding-left: 288px;
+    margin-bottom: 5px;
+}
+
+.log{
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    bottom: 230px;
+}
+
+.sea{
+    width: 18px;
+    height: 18px;
+    padding-left: 171px;
+    margin-top: 28px;
+}
+
+.dis{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: gray;
+    width: 13px;
+    height: 13px;
+    position: absolute;
+    left: 435px;
+    top: 110px;
+}
+
+.dis a{
+    color: gray;
+    text-decoration: none;
+}
+
+.dis a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.bro{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: gray;
+    width: 13px;
+    height: 13px;
+    position: absolute;
+    left: 523px;
+    top: 110px;
+}
+
+.bro a{
+    color: gray;
+    text-decoration: none;
+}
+
+.bro a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.new{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: gray;
+    width: 13px;
+    height: 13px;
+    position: absolute;
+    top: 110px;
+    left: 600px;
+}
+
+.new a{
+    color: gray;
+    text-decoration: none;
+}
+
+.new a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.gi{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 33px;
+    height: 53px;
+    position: absolute;
+    left: 15px;
+    bottom: 8px;
+}
+
+.gi2{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 33px;
+    height: 53px;
+    position: absolute;
+    left: 15px;
+    bottom: 11px;
+}
+
+.gi3{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 33px;
+    height: 53px;
+    position: absolute;
+    left: 15px;
+    bottom: 8px;
+}
+
+.gi4{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 34px;
+    height: 53px;
+    position: absolute;
+    left: 15px;
+    bottom: 8px;
+}
+
+.gi5{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 33px;
+    height: 50px;
+    position: absolute;
+    left: 15px;
+    bottom: 11px;
+}
+
+.gi6{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    width: 33px;
+    height: 53px;
+    position: absolute;
+    left: 15px;
+    bottom: 11px;
+}
+
+.ico1{
+    width: 22px;
+    height: 25px;
+    padding-left: 20px;
+    padding-top: 16px;
+} 
+
+.ico2{
+    width: 19px;
+    height: 19px;
+    margin-left: 730px;
+} 
+
+.ico4{
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 413px;
+    top: 574px;
+}
+
+.ico5{
+    width: 8px;
+    height:8px;
+    position: absolute;
+    left: 418px;
+    top: 579px;
+}
+
+.os{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal; 
+    font-size: 22px;
+    color: aliceblue;
+    margin-left: 30px;
+    position: absolute;
+    top: 20px;
+} 
+
+.os a:hover{
+    color: rgba(245, 245, 245, 0.757);
+    text-decoration: none;
+}
+
+.os a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.t1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: aliceblue;
+    margin-left: 126px;
+    font-size: 18px;
+    position: absolute;
+    top: 25px;
+}
+
+.t1 a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+.t1 a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.t2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: aliceblue;
+    margin-left: 215px;
+    font-size: 18px;
+    position: absolute;
+    top: 25px;
+}
+
+.t3{
+    color: aliceblue;
+    position: absolute;
+    top: 3px;
+    left: 13px;
+}
+
+.box1:hover{
+    background-color: #535353b1;
+}
+
+.box2:hover{
+    filter: brightness(120%);
+}
+
+.t4{
+    color: black;
+    position: absolute;
+    top: 3px;
+    left: 13px;
+}
+
+.t5{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+}
+
+.t6{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    width: 200px;
+    position: absolute;
+    left: 205px;
+    bottom: 215px;
+}
+
+.t7{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 800px;
+    position: absolute;
+    left: 205px;
+    bottom: 104px;
+}
+
+.t8{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    bottom: 45px;
+}
+
+.t9{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 18px;
+    color: black;
+    font-variation-settings:"slnt" 0;
+    position: absolute;
+    left: 50px;
+    bottom: 10px;
+}
+
+
+.text{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    left: 445px;
+    bottom: 23px;
+}
+
+.t10{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 13px;
+}
+
+.t11{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 10px;
+}
+
+.t12{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 25px;
+}
+
+.p1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 6px;
+    color: whitesmoke;
+    position: absolute;
+    left: 70px;
+    top: 3px;
+}
+
+.t13{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 4px;
+}
+
+.t14{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 8px;
+}
+
+.t15{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 60px;
+    top: 8px;
+}
+
+.t16{
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+    color: whitesmoke;
+    position: absolute;
+    left: 165px;
+}
+
+.t17{
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+    color: whitesmoke;
+    position: absolute;
+    left: 165px;
+    bottom: -220%;
+}
+
+.ra{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    bottom: -1327px;
+    left: 385px;
+}
+
+.base1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    left: 163px;
+    bottom: -73%;
+}
+
+.base2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    left: 383px;
+    bottom: -73%;
+}
+
+.base3{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    left: 603px;
+    bottom: -73%;
+}
+
+.base4{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    right: 374px;
+    bottom: -73%;
+}
+
+.base5{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    right: 148px;
+    bottom: -73%;
+}
+
+.far{  
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    left: 162px;
+    bottom: -85%;
+}
+
+.as{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    left: 385px;
+    bottom: -85%;
+}
+
+.god{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 24px;
+    color: whitesmoke;
+    position: absolute;
+    left: 603px;
+    bottom: -84%;
+}
+
+.tom{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    right: 342px;
+    bottom: -85%;
+}
+
+.wat{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    right: 158px;
+    bottom: -85%;
+}
+
+.sb{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    left: 161px;
+    bottom: -88%;
+}
+
+.per{
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: black;
+    position: absolute;
+    left: 7px;
+    bottom: -1px;
+}
+
+.sb2{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    left: 385px;
+    bottom: -88%;
+}
+
+
+.sb3{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    left: 604px;
+    bottom: -88%;
+}
+
+.sb4{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    right: 478px;
+    bottom: -88%;
+}
+
+.sb5{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    right: 251px;
+    bottom: -88%;
+}
+
+.nu{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.549);
+    position: absolute;
+    left: 58px;
+    bottom: -10%;
+}
+
+.nm{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: whitesmoke;
+    position: absolute;
+    left: 100px;
+    bottom: -9%;
+}
+
+.nm1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: whitesmoke;
+    position: absolute;
+    left: 113px;
+    bottom: -8%;
+}
+
+.fre{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #27272778;
+    width: 995px;
+    height: 550px;
+    position: absolute;
+    left: 170px;
+    bottom: -200%;
+}
+
+.gif{
+    width: 50px;
+    height: 40px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+
+.vie{
+    border: 1px solid whitesmoke;
+    border-radius: 7px;
+    width: 95px;
+    height: 30px;
+    position: absolute;
+    right: 40px;
+    margin-top: 5%;
+}
+
+.vie:hover{
+    background-color: #272727;
+}
+
+.mor{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;   
+    position: absolute;
+    left: 15px;
+    bottom: 6px;
+}
+
+.fg{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 780;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 25px;
+    color: whitesmoke;   
+    position: absolute;
+    left: 11%;
+    top: 9%;
+}
+
+.gam1{
+    border: 1px solid #272727;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url(./images/Off-The-Grid.png);
+    background-size: cover;
+    background-position: 50%;
+    width: 210px;
+    height: 270px;
+    position: absolute;
+    left: 50px;
+    top: 140px;
+}
+
+.gam2{
+    border: 1px solid #272727;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url(./images/Fortnite.jpg);
+    background-size: cover;
+    width: 210px;
+    height: 270px;
+    position: absolute;
+    left: 280px;
+    top: 140px;
+}
+
+.gam3{
+    border: 1px solid #272727;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url(./images/torque-drift-2.png);
+    background-size: cover;
+    width: 210px;
+    height: 270px;
+    position: absolute;
+    right: 273px;
+    top: 140px;
+}
+
+.gam4{
+    border: 1px solid #272727;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url(./images/pubg\ battleground.webp);
+    background-size: cover;
+    background-position: 50%;
+    width: 210px;
+    height: 270px;
+    position: absolute;
+    right: 44px;
+    top: 140px;
+}
+
+.frno{
+    border: 1px solid transparent;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 210px;
+    height: 25px;
+    background-color: #1E90FF;
+    position: absolute;
+    left: 50px;
+    bottom: 112px;
+}
+
+.frno2{
+    border: 1px solid transparent;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 210px;
+    height: 25px;
+    background-color: #1E90FF;
+    position: absolute;
+    left: 280px;
+    bottom: 112px;
+}
+
+.frno3{
+    border: 1px solid transparent;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 210px;
+    height: 25px;
+    background-color: #1E90FF;
+    position: absolute;
+    right: 273px;
+    bottom: 112px;
+}
+
+.frno4{
+    border: 1px solid transparent;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 210px;
+    height: 25px;
+    background-color: #1E90FF;
+    position: absolute;
+    right: 44px;
+    bottom: 112px;
+}
+
+
+.fw{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    padding-left: 65px;
+}
+
+.OGEA{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    bottom: -100px;
+    left: -2px;
+}
+
+.for{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: whitesmoke;
+    position: absolute;
+    bottom: -77px;
+    left: -1px;
+}
+
+.TD2{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    right: 98px;
+    bottom: -75px;
+}
+
+.PB{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    right: 11px;
+    bottom: -75px;
+}
+
+.bs1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    left: -1px;
+    bottom: -37px;
+}
+
+.bs2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    left: -1px;
+    bottom: -37px;
+}
+
+.bs3{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    right: 60px;
+    bottom: -37px;
+}
+
+.bs4{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    right: 60px;
+    bottom: -37px;
+}
+
+.frno a{
+    color: black;
+    text-decoration: none;
+}
+
+.frno2 a{
+    color: black;
+    text-decoration: none;
+}
+
+.frno3 a{
+    color: black;
+    text-decoration: none;
+}
+
+.frno4 a{
+    color: black;
+    text-decoration: none;
+}
+
+.hbx1{
+    border: 1px solid #272727;
+    border-radius: 13px;
+    background-image: url(./images/Dead-by-daylight.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    left: 160px;
+}
+
+.hbx2{
+    border: 1px solid #272727;
+    border-radius: 13px;
+    background-image: url(./images/_AlanWake2.jfif);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    left: 380px;
+}
+
+.hbx3{
+    border: 1px solid #272727;
+    border-radius: 13px;
+    background-image: url(./images/DeadIsland2.jfif);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    left: 600px;
+}
+
+.hbx4{
+    border: 1px solid #272727;
+    border-radius: 13px;
+    background-image: url(./images/Dying\ Light\ 2\ Stay\ Human.jfif);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    right: 325px;
+}
+
+.hbx5{
+    border: 1px solid #272727;
+    border-radius: 13px;
+    background-image: url(./images/The_Outlast_Trials.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 270px;
+    position: absolute;
+    right: 100px;
+}
+
+.bsgame1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    left: 163px;
+    bottom: -271%;
+}
+
+.bsgame2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    left: 385px;
+    bottom: -271%;
+}
+
+.bsgame3{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    left: 605px;
+    bottom: -271%;
+}
+
+.bsgame4{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    right: 370px;
+    bottom: -271%;
+}
+
+.bsgame5{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: gray;
+    width: 150px;
+    height: 13px;
+    position: absolute;
+    right: 145px;
+    bottom: -271%;
+}
+
+.DbD{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: whitesmoke;
+    position: absolute;
+    left: 162px;
+    bottom: -278%;
+}
+
+.AW2{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: whitesmoke;
+    position: absolute;
+    bottom: -278%;
+    left: 383px;
+}
+
+.DI2{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: whitesmoke;
+    position: absolute;
+    bottom: -278%;
+    left: 605px;
+}
+
+.DL2SH{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: whitesmoke;
+    position: absolute;
+    right: 338px;
+    bottom: -283%;
+}
+
+.TOT{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: whitesmoke;
+    position: absolute;
+    bottom: -278%;
+    right: 134px;
+}
+
+.ho:hover{
+    filter: contrast(0.8);
+    margin-left: -8px;
+}
+
+.ho1:hover{
+    opacity: 0.8;
+}
+
+.smallbox{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    left: 161px;
+    bottom: -280%;
+}
+
+.smallbox2{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    left: 385px;
+    bottom: -280%;
+}
+
+
+.smallbox3{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    left: 604px;
+    bottom: -280%;
+}
+
+.smallbox4{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    right: 478px;
+    bottom: -285%;
+}
+
+.smallbox5{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    right: 251px;
+    bottom: -280%;
+}
+
+.percentage{
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: black;
+    position: absolute;
+    left: 7px;
+    bottom: -1px;
+}
+
+.rupees{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.549);
+    position: absolute;
+    left: 58px;
+    bottom: -10%;
+}
+
+.ru2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: whitesmoke;
+    position: absolute;
+    left: 120px;
+    bottom: -9%;
+}
+
+.ra1{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    bottom: -1821px;
+    left: 290px;
+}
+
+.topseller{
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+    color: whitesmoke;
+    position: absolute;
+    left: 165px;
+    bottom: -300%;
+}
+
+.lb1{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 168px;
+    bottom: -313%;
+}
+
+.lb1:hover{
+    background-color: #27272778;
+}
+
+.icons{
+    position: absolute;
+    left: 10px;
+    bottom: 15px;
+    width: 48px;
+    height: 64px;
+}
+
+.lb2{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 168px;
+    bottom: -328%;
+}
+
+.lb2:hover{
+    background-color: #27272778;
+}
+
+
+.lb3{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 168px;
+    bottom: -343%;
+}
+
+.lb3:hover{
+    background-color: #27272778;
+}
+
+.lb4{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 168px;
+    bottom: -358%;
+}
+
+.lb4:hover{
+    background-color: #27272778;
+}
+
+.lb5{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 168px;
+    bottom: -373%;
+}
+
+.lb5:hover{
+    background-color: #27272778;
+}
+
+.titles{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: whitesmoke;
+    position: absolute;
+    bottom: 30px;
+    left: 70px;
+}
+
+.slbx1{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #198afa;
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    left: 70px;
+    bottom: 20px;
+}
+
+.percentage1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: black;
+    position: absolute;
+    left: 7px;
+    bottom: -1px;
+}
+
+.rupee1{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.549);
+    position: absolute;
+    left: 53px;
+    bottom: -10%;
+}
+
+.rupee2{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: whitesmoke;
+    position: absolute;
+    left: 105px;
+    bottom: -9%;
+}
+
+.rupee3{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: whitesmoke;
+    position: absolute;
+    left: 125px;
+    bottom: -9%;
+}
+
+.ru3{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: whitesmoke;
+    position: absolute;
+    left: 70px;
+    bottom: 7px;
+}
+
+.TABX1{
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: #272727;
+    width: 85px;
+    height: 18px;
+    position: absolute;
+    left: 68px;
+    bottom: 28px;
+}
+
+.TA{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 14px;
+    color: whitesmoke;
+    position: absolute;
+    left: 7px;
+    bottom: 1px;
+}
+
+.rupee4{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: whitesmoke;
+    position: absolute;
+    left: 70px;
+    bottom: 20px;
+}
+
+.available{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 16px;
+    color: gray;
+    position: absolute;
+    left: 70px;
+    bottom: 20px;
+
+}
+
+.line1{
+    width: 5px;
+    height: 500px;
+    position: absolute;
+    left: 500px;
+    bottom: -373%;
+}
+
+.mostplayed{
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+    color: whitesmoke;
+    position: absolute;
+    left: 520px;
+    bottom: -300%;
+}
+
+.ra2{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    bottom: -1821px;
+    left: 655px;
+}
+
+.lb6{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 520px;
+    bottom: -313%;
+}
+
+.lb6:hover{
+    background-color: #27272778;
+}
+
+.lb7{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 520px;
+    bottom: -328%;
+}
+
+.lb7:hover{
+    background-color: #27272778;
+}
+
+.lb8{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 520px;
+    bottom: -343%;
+}
+
+.lb8:hover{
+    background-color: #27272778;
+}
+
+.lb9{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 520px;
+    bottom: -358%;
+}
+
+.lb9:hover{
+    background-color: #27272778;
+}
+
+.lb10{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    left: 520px;
+    bottom: -373%;
+}
+
+.lb10:hover{
+    background-color: #27272778;
+}
+
+.line2{
+    width: 5px;
+    height: 500px;
+    position: absolute;
+    right: 490px;
+    bottom: -373%;
+}
+
+.lb11{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    right: 160px;
+    bottom: -313%;
+}
+
+.lb11:hover{
+    background-color: #27272778;
+}
+
+.lb12{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    right: 160px;
+    bottom: -328%;
+}
+
+.lb12:hover{
+    background-color: #27272778;
+}
+
+.lb13{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    right: 160px;
+    bottom: -343%;
+}
+
+.lb13:hover{
+    background-color: #27272778;
+}
+
+.lb14{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    right: 160px;
+    bottom: -358%;
+}
+
+.lb14:hover{
+    background-color: #27272778;
+}
+
+.lb15{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    width: 315px;
+    height: 93px;
+    position: absolute;
+    right: 160px;
+    bottom: -373%;
+}
+
+.lb15:hover{
+    background-color: #27272778;
+}
+
+.coming{
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+    color: whitesmoke;
+    position: absolute;
+    right: 340px;
+    bottom: -300%;
+}
+
+.ra3{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    bottom: -1821px;
+    right: 315px;
+} 
+
+.bx9{
+    border: 1px solid #272727c1;
+    background-color: #272727c1;
+    width: 1333px;
+    height: 690px;
+    position: absolute;
+    bottom: -510%;
+}
+
+.facebook{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 80px;
+    top: 40px;
+}
+
+.twitter{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 125px;
+    top: 42px;
+}
+
+.youtube{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 168px;
+    top: 47px;
+}
+
+.res{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.371);
+    position: absolute;
+    left: 80px;
+    top: 80px;
+}
+
+.uparr{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    right: 30px;
+    top: 40px;
+}
+
+.support{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 107px;
+}
+
+.distri{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 135px;
+}
+
+.career{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 163px;
+}
+
+.company{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 190px;
+}
+
+.FAP{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 280px;
+    top: 107px;
+}
+
+.UX{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 280px;
+    top: 135px;
+}
+
+.SE{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 280px;
+    top: 163px;
+}
+
+.OS{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 400px;
+    top: 107px;
+}
+
+.CR{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 400px;
+    top: 135px;
+}
+
+.EN{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 400px;
+    top: 163px;
+}
+
+.MBEG{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.373);
+    position: absolute;
+    left: 80px;
+    top: 240px;
+}
+
+.BB{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 270px;
+}
+
+.F{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 300px;
+}
+
+.IB{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 330px;
+}
+
+.RR{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 282px;
+    top: 270px;
+}
+
+.SC{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 282px;
+    top: 300px;
+}
+
+.UT{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 282px;
+    top: 330px;
+}
+
+.sli{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    width: 1180px;
+    height: 3px;
+    position: absolute;
+    left: 80px;
+    top: 395px;
+}
+
+.instruction{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 230;
+    font-style: normal;
+    font-variation-settings:"slnt" 0;
+    color: rgba(245, 245, 245, 0.831);
+    line-height: 23px;
+    font-size: 14px;
+    width: 900px;
+    height: 10px;
+    position: absolute;
+    left: 80px;
+    top: 420px;
+}
+
+.TOS{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 80px;
+    top: 627px;
+}
+
+.PP{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 200px;
+    top: 627px;
+
+}
+
+.SRP{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-variation-settings:"slnt" 0;
+    color: whitesmoke;
+    position: absolute;
+    left: 300px;
+    top: 627px;
+}
+
+.EGL{
+    width: 27px;
+    height: 32px;
+    position: absolute;
+    right: 105px;
+    top: 595px;
+}
+
+.UEL{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 60px;
+    top: 597px;
+}
